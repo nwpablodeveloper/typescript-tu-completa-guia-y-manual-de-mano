@@ -8,3 +8,8 @@
 
     En esta sección vamos a realizar ejercicios iniciales, exposiciones y generalidades que nos permitan seguir trabajando en el curso. 
   ``` 
+- V007 - Intalación de TypeScritp
+  - Instalar de forma global
+  - [TypeScript](https://www.typescriptlang.org/)
+  - ```tsc --verion```
+  - ```tsc -v```
