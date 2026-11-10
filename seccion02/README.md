@@ -19,3 +19,12 @@
 
         tsc "nombre-archivo.ts"
     ```
+- V009 - tsconfign.json
+  ```
+    // Crea el archivos "tsconfig.json"
+    tsc --init
+
+    // Al exisitir el archivo tsconfig.json, ya se encarga de transpilar todos los .ts a .js de forma automática
+    
+    tsc
+  ```
