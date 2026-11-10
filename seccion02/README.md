@@ -28,3 +28,7 @@
     
     tsc
   ```
+- V010 - Modo observador - Watch mode
+  ```
+    tsc --watch o tsc -w
+  ```
