@@ -13,3 +13,9 @@
   - [TypeScript](https://www.typescriptlang.org/)
   - ```tsc --verion```
   - ```tsc -v```
+- V008 - Hola Mundo en TypeScript
+    ```
+        // Compilar en la consola luego de generar los archivos .js
+
+        tsc "nombre-archivo.ts"
+    ```
